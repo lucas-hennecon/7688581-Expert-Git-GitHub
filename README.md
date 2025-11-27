@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Il n'y a pas de pré-requis nécessaire.
-
+Il y a plein de pré-requis!
 ```
 
 ### Installation
