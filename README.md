@@ -20,7 +20,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-Install Numpy et PyTorch.
+Install Numpy, PyTorch et Pandas.
 ```
 
 
